@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gracj\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gracj\\.nuget\\packages"
+    ]
+  }
+}

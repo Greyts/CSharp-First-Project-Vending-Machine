@@ -1,0 +1,13 @@
+D:\CSharpProjekty\Projekt 1\bin\Debug\netcoreapp3.1\Projekt 1.exe
+D:\CSharpProjekty\Projekt 1\bin\Debug\netcoreapp3.1\Projekt 1.deps.json
+D:\CSharpProjekty\Projekt 1\bin\Debug\netcoreapp3.1\Projekt 1.runtimeconfig.json
+D:\CSharpProjekty\Projekt 1\bin\Debug\netcoreapp3.1\Projekt 1.runtimeconfig.dev.json
+D:\CSharpProjekty\Projekt 1\bin\Debug\netcoreapp3.1\Projekt 1.dll
+D:\CSharpProjekty\Projekt 1\bin\Debug\netcoreapp3.1\Projekt 1.pdb
+D:\CSharpProjekty\Projekt 1\obj\Debug\netcoreapp3.1\Projekt 1.csprojAssemblyReference.cache
+D:\CSharpProjekty\Projekt 1\obj\Debug\netcoreapp3.1\Projekt 1.AssemblyInfoInputs.cache
+D:\CSharpProjekty\Projekt 1\obj\Debug\netcoreapp3.1\Projekt 1.AssemblyInfo.cs
+D:\CSharpProjekty\Projekt 1\obj\Debug\netcoreapp3.1\Projekt 1.csproj.CoreCompileInputs.cache
+D:\CSharpProjekty\Projekt 1\obj\Debug\netcoreapp3.1\Projekt 1.dll
+D:\CSharpProjekty\Projekt 1\obj\Debug\netcoreapp3.1\Projekt 1.pdb
+D:\CSharpProjekty\Projekt 1\obj\Debug\netcoreapp3.1\Projekt 1.genruntimeconfig.cache
